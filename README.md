@@ -43,8 +43,4 @@ The workflow follows a logical, step-by-step process to transform a raw email in
 
 ```---
 
-### Step 4: Commit Your Changes
 
-After you have pasted and edited the template in your `README.md` file, scroll down and click the green **"Commit changes"** button.
-
-You will now have a professional and comprehensive portfolio piece that clearly demonstrates your ability to design, build, and deploy a complex and valuable business automation. You can share the link to this GitHub repository with potential employers or clients.
