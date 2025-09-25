@@ -17,7 +17,7 @@ This project is a powerful, fully automated workflow that captures new leads fro
 
 ## Workflow Diagram
 
-![Workflow Diagram](workflow-diagram.png)
+![Workflow Diagram](Hubspot.png) 
 
 ## How It Works
 
