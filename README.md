@@ -1,4 +1,5 @@
 # Hubspot-Lead-Qualification-n8n
+
 This project is a powerful, fully automated workflow that captures new leads from emails, uses AI to extract and enrich data, scores the lead's potential, and creates a deal in the HubSpot CRM, routing it to the correct pipeline based on its qualification.
 
 ## Key Features
@@ -32,15 +33,4 @@ The workflow follows a logical, step-by-step process to transform a raw email in
 7.  **Process & Merge:** The workflow merges the AI's score with the company data, parses the response, and prepares a final, clean data object.
 8.  **Route:** A **Switch** node directs the lead to the appropriate path based on its "hot" or "cold" qualification.
 9.  **Action:** A final **HubSpot** node creates a **Deal** in the sales pipeline, placing it in the correct stage ("Appointment Scheduled" for hot leads, "Qualified to Buy" for cold leads) and associating it with the company.
-
-## Setup & Installation
-
-1.  Download the `workflow.json` file from this repository.
-2.  In your n8n instance, import the JSON file to create a new workflow.
-3.  Add your own credentials for the **Gmail**, **OpenAI**, and **HubSpot** nodes.
-4.  (Optional) Create custom properties in HubSpot to store the AI's score and reasoning.
-5.  Activate the workflow.
-
-```---
-
 
