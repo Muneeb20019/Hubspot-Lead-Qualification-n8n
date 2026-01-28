@@ -14,10 +14,10 @@ An intelligent, enterprise-grade B2B sales pipeline that transforms unstructured
 
 ## 🎯 The Problem & The Solution
 
-### **The Problem 😫**
+### **The Problem **
 Sales teams often suffer from **"Lead Fatigue."** Inbound emails are frequently unstructured, missing key company data, and mixed with low-quality inquiries. Manually entering this data into a CRM and researching companies takes hours, leading to slow response times (**Lead Decay**).
 
-### **The Solution ⚡**
+### **The Solution **
 This autonomous engine provides a **zero-touch pipeline** that:
 1.  **Extracts Data:** Instantly identifies company names and contact info from raw text.
 2.  **Enriches Intel:** Uses HubSpot’s native insights to fetch deep company data.
